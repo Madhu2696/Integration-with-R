@@ -36,6 +36,8 @@ R Visual for Advanced Visualization
    
 3. **Customize the Plot**:
    - It further customize the plot using standard 'ggplot2' options or use other R libraries depending on needs.
+  
+    ##Save the report and Publish##
      
 Dashboard link:https://app.powerbi.com/groups/me/reports/079be6b3-7d7b-49b5-b6b2-ca6986265098/a4dd7f3a802e0a21e270?experience=power-bi 
 
@@ -80,6 +82,8 @@ ggplot(sumCalls, aes(x=hour, y=weekday, fill=factor(discrete))) +
   theme_tufte()
 
    This code will create a heatmap where the intensity of the color indicates the Calls heatmap per weekday and timestamp
+   
+   ##Save the report and Publish##
 
    Dashboardlink:https://app.powerbi.com/groups/me/reports/079be6b3-7d7b-49b5-b6b2-ca6986265098/ReportSection?experience=power-bi
 
