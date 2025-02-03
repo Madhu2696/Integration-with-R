@@ -15,10 +15,11 @@
 R Visual for Advanced Visualization
 1. **Create an R Visual**:
    - In the Power BI report view, click on the `R` icon in the Visualizations pane.
-   - In the `R script` editor, write  R code to generate a custom plot. For instance, want to plot a regression line for sales data.
+   - In the R script editor, write  R code to generate a custom plot. For instance, want to plot a regression line for sales data.
      
 ### Example 1:   ** R  code for a scatter plot with a regression line**
-      #Load neccessary libraries 
+
+     # Load neccessary libraries 
    library(ggplot2)
 
    # Create a scatter plot with a regression line
@@ -33,7 +34,7 @@ R Visual for Advanced Visualization
    - The R visual will generate the plot based on your R script.
    
 3. **Customize the Plot**:
-   - It further customize the plot using standard `ggplot2` options or use other R libraries depending on needs.
+   - It further customize the plot using standard 'ggplot2' options or use other R libraries depending on needs.
      
 Dashboard link:https://app.powerbi.com/groups/me/reports/079be6b3-7d7b-49b5-b6b2-ca6986265098/a4dd7f3a802e0a21e270?experience=power-bi 
 
@@ -42,10 +43,9 @@ Dashboard link:https://app.powerbi.com/groups/me/reports/079be6b3-7d7b-49b5-b6b2
 ### Example 2 : Create a Heatmap in Power BI Using R
  
 1. **Add R Visual for Heatmap**:
-   - Select the `R` visual from the visualization pane.
+   - Select the R visual from the visualization pane.
    - Take another dataset contains (Weekdays,Time of days...)
    - In the R script editor, write the following R code:
-  
   
      
      library(dplyr) #count
