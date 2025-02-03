@@ -19,7 +19,8 @@ R Visual for Advanced Visualization
      
 ### Example 1:   ** R  code for a scatter plot with a regression line**
 
-     # Load neccessary libraries 
+   Load necessary libraries
+   
    library(ggplot2)
 
    # Create a scatter plot with a regression line
