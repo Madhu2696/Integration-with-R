@@ -14,7 +14,7 @@
 *** Using R Scripts for Data Analysis and Visualization
 R Visual for Advanced Visualization
 1. **Create an R Visual**:
-   - In the Power BI report view, click on the `R` icon in the Visualizations pane.
+   - In the Power BI report view, click on the R icon in the Visualizations pane.
    - In the R script editor, write  R code to generate a custom plot. For instance, want to plot a regression line for sales data.
      
 ### Example 1:   ** R  code for a scatter plot with a regression line**
