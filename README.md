@@ -2,8 +2,8 @@
 
 
 ### Steps to Use R Scripts in Power BI:
-1. **Install R on Your Machine**: 
-   Before using R in Power BI, you need to install R on your system.
+1. **Install R**: 
+   Before using R in Power BI,  need to install R on  system.
 
 2.  **Enable R in Power BI**:
    - Open Power BI Desktop.
