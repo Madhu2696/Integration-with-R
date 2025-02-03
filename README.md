@@ -7,8 +7,8 @@
 
 2.  **Enable R in Power BI**:
    - Open Power BI Desktop.
-   - Go to `File` -> `Options and Settings` -> `Options`.
-   - In the Options window, navigate to the `R scripting` section under the `Global` settings.
+   - Go to File- Options and Settings-Options
+   - In the Options window, navigate to the R scripting section under the Global settings.
    - Specify the R home directory where R is installed.
 
 *** Using R Scripts for Data Analysis and Visualization
@@ -18,7 +18,7 @@ R Visual for Advanced Visualization
    - In the `R script` editor, write  R code to generate a custom plot. For instance, want to plot a regression line for sales data.
      
 ### Example 1:   ** R  code for a scatter plot with a regression line**
-      # Load necessary libraries
+      #Load neccessary libraries 
    library(ggplot2)
 
    # Create a scatter plot with a regression line
@@ -29,7 +29,7 @@ R Visual for Advanced Visualization
      ggtitle("Sales vs Age with Regression Line")
 
 2. **Bind the Fields**:
-   - Drag the relevant fields (`Age`, `Sales`) into the R visual’s data field well.
+   - Drag the relevant fields (Age,Sales ) into the R visuals data field well.
    - The R visual will generate the plot based on your R script.
    
 3. **Customize the Plot**:
