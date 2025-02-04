@@ -40,6 +40,8 @@ R Visual for Advanced Visualization
     ##Save the report and Publish##
      
 Dashboard link:https://app.powerbi.com/groups/me/reports/079be6b3-7d7b-49b5-b6b2-ca6986265098/a4dd7f3a802e0a21e270?experience=power-bi 
+![Integration with R -example1- output](https://github.com/user-attachments/assets/14613fe6-ca4f-40a8-b456-bcba4b9c427a)
+
 
 
    
@@ -86,6 +88,9 @@ ggplot(sumCalls, aes(x=hour, y=weekday, fill=factor(discrete))) +
    ##Save the report and Publish##
 
    Dashboardlink:https://app.powerbi.com/groups/me/reports/079be6b3-7d7b-49b5-b6b2-ca6986265098/ReportSection?experience=power-bi
+
+   ![Integration with R -example 2 -output](https://github.com/user-attachments/assets/203a2f9e-3495-4f37-bae4-f68ef8b9629a)
+
 
     
 
