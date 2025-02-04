@@ -1,3 +1,17 @@
+
+**COMPANY** : CODTECH IT SOLUTIONS
+
+ **NAME** : NERUSU MADHU JAHNAVI
+
+**INTERNID** : CT6WNSZ
+
+**DOMAIN** : POWER BI
+
+**DURATION** : 6 WEEKS
+
+
+#### DESCRIPTION ####
+    
   ####  Integration with R #####
 
 
