@@ -11,7 +11,7 @@
 
  DESCRIPTION 
     
-  ****Integration with R*****
+  ****Integration with R****
 
 
 ### Steps to Use R Scripts in Power BI:
